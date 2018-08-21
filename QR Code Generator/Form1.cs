@@ -56,7 +56,7 @@ namespace QR_Code_Generator
                 }
             }
             
-            //Cái gì đó đã bị sửa
+            //Cái gì đó đã bị sửa đổi
             
         }
 
