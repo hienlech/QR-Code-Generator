@@ -36,7 +36,7 @@ namespace QR_Code_Generator
             Bitmap qrresult = qRCode.GetGraphic(20);
             pictureBox1.Image = qrresult;
         }
-        int index = 0;
+        
         
         private void buttonSave_Click(object sender, EventArgs e)
         {
@@ -57,7 +57,7 @@ namespace QR_Code_Generator
                 }
             }
             
-            
+            //Cái gì đó đã bị sửa
             
         }
 
