@@ -1,0 +1,14 @@
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.exe.config
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.exe
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.pdb
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\bin\Debug\QRCoder.dll
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\bin\Debug\System.Drawing.Common.dll
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\bin\Debug\UnityEngine.dll
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.csprojAssemblyReference.cache
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\obj\Debug\QR_Code_Generator.Form1.resources
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\obj\Debug\QR_Code_Generator.Properties.Resources.resources
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.csproj.GenerateResource.cache
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.csproj.CopyComplete
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.exe
+C:\Users\chi hien\source\repos\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.pdb
